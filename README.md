@@ -5,7 +5,7 @@ Diseño e Implementación de una aplicación para Nitidez en Imágenes.
 #######################################################################################
 
 Para la implementación se utilizó:
-x86 - NASM \n
+x86 - NASM      
 Python 3.6.9
 
 
